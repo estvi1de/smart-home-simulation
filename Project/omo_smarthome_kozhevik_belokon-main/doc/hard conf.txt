@@ -1,0 +1,72 @@
+This is House, address - Technicka 2, the owner - Father, username - Alex50
+This is person - Father, age - 50
+This is person - Mother, age - 51
+This is person - Grandfather, age - 76
+This is person - Grandmother, age - 75
+This is person - Son, age - 14
+This is person - Daughter, age - 10
+This is person - Guest1, age - 10
+This is person - Guest2, age - 20
+This is person - Guest3, age - 30
+This is person - Guest4, age - 40
+This is person - Guest5, age - 50
+This is person - Guest6, age - 5
+This is person - Guest7, age - 15
+This is person - Guest8, age - 25
+This is person - Guest9, age - 35
+This is person - Guest10, age - 45
+This is level - 1
+This is garage, capacity - 20, square - 40.0, level - 1
+This is transport - Car
+This is transport - Car
+This is transport - Bike
+This is transport - Bike
+This is transport - Ski
+This is transport - Ski
+This is transport - Ski
+This is outdoor, capacity - 99 (standard), square - 600.0, level - 1
+This is device (Light) - Light
+This is level - 2
+This is room - Hallway, capacity - 10, square - 15.0, level - 2
+This is device (Light) - Light
+This is device (Window) - Window
+This is room - ShowerRoom, capacity - 4, square - 11.2, level - 2
+This is device (Light) - Light
+This is device (WashingMachine) - Samsung Washing
+This is device (WashingMachine) - Samsung Washing
+This is device (Window) - Window
+This is room - Kitchen, capacity - 4, square - 10.7, level - 2
+This is device (Fridge) - Fridge LG
+This is device (GasCooker) - Beko
+This is device (GasCooker) - Beko
+This is device (Light) - Light
+This is device (Multicooker) - Tefal
+This is device (Teapot) - Bork
+This is device (Window) - Window
+This is room - LivingRoom, capacity - 12, square - 36.6, level - 2
+This is device (TV) - Samsung
+This is device (AirCleaner) - Boneco P700
+This is device (Computer) - Dell
+This is device (Conditioner) - Mitsubishi Electric
+This is device (Humidifier) - Boneco U700
+This is device (Light) - Light
+This is device (RobotVacuumCleaner) - Dyson
+This is device (Window) - Window
+This is room - BedroomForParents, capacity - 6, square - 14.9, level - 2
+This is device (TV) - Samsung
+This is device (AirCleaner) - Boneco P700
+This is device (BabyMonitor) - BabyMonitor
+This is device (Computer) - MacBook
+This is device (Conditioner) - Mitsubishi Electric
+This is device (Humidifier) - Boneco U700
+This is device (Light) - Light
+This is device (RobotVacuumCleaner) - Dyson
+This is device (Window) - Window
+This is room - BedroomForGrands, capacity - 6, square - 13.9, level - 2
+This is device (TV) - Samsung
+This is device (AirCleaner) - Boneco P700
+This is device (Conditioner) - Mitsubishi Electric
+This is device (Humidifier) - Boneco U700
+This is device (Light) - Light
+This is device (RobotVacuumCleaner) - Dyson
+This is device (Window) - Window

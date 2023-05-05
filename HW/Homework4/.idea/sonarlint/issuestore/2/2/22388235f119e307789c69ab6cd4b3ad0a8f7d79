@@ -1,0 +1,9 @@
+
+
+java:S4165."mRemove this useless assignment; "peers2BlocksMap" already holds the assigned value along all execution paths.( üî¬úÿÿÿÿ8Ÿ¢¿»0
+
+java:S4165/"nRemove this useless assignment; "totalBlocksCount" already holds the assigned value along all execution paths.(´„ûÿÿÿÿ8Ÿ¢¿»0
+Q
+java:S1656/"/Remove or correct this useless self-assignment.(´„ûÿÿÿÿ8¨¢¿»0
+Q
+java:S1656."/Remove or correct this useless self-assignment.( üî¬úÿÿÿÿ8¨¢¿»0

@@ -1,0 +1,10 @@
+cz.cvut.fel.omo
+cz.cvut.fel.omo.event
+cz.cvut.fel.omo.model.devices
+cz.cvut.fel.omo.model.parts
+cz.cvut.fel.omo.model.pets
+cz.cvut.fel.omo.model.signalization
+cz.cvut.fel.omo.model.transport
+cz.cvut.fel.omo.model.users
+cz.cvut.fel.omo.observer
+cz.cvut.fel.omo.visitor

@@ -1,0 +1,2624 @@
+This is House, address - Technicka 2, the owner - Father, username - Alex50
+This is person - Father, age - 50
+This is person - Mother, age - 51
+This is person - Grandfather, age - 76
+This is person - Grandmother, age - 75
+This is person - Son, age - 14
+This is person - Daughter, age - 10
+This is person - Guest1, age - 10
+This is person - Guest2, age - 20
+This is person - Guest3, age - 30
+This is person - Guest4, age - 40
+This is person - Guest5, age - 50
+This is person - Guest6, age - 5
+This is person - Guest7, age - 15
+This is person - Guest8, age - 25
+This is person - Guest9, age - 35
+This is person - Guest10, age - 45
+This is level - 1
+This is garage, capacity - 20, square - 40.0, level - 1
+This is transport - Car
+This is transport - Car
+This is transport - Bike
+This is transport - Bike
+This is transport - Ski
+This is transport - Ski
+This is transport - Ski
+This is outdoor, capacity - 99 (standard), square - 600.0, level - 1
+This is device - Light
+This is level - 2
+This is room - Hallway, capacity - 10, square - 15.0, level - 2
+This is device - Light
+This is device - Window
+This is room - ShowerRoom, capacity - 4, square - 11.2, level - 2
+This is device - Light
+This is device - Samsung Washing
+This is device - Samsung Washing
+This is device - Window
+This is room - Kitchen, capacity - 4, square - 10.7, level - 2
+This is device - Fridge LG
+This is device - Beko
+This is device - Beko
+This is device - Light
+This is device - Tefal
+This is device - Bork
+This is device - Window
+This is room - LivingRoom, capacity - 12, square - 36.6, level - 2
+This is device - Samsung
+This is device - Boneco P700
+This is device - Dell
+This is device - Mitsubishi Electric
+This is device - Boneco U700
+This is device - Light
+This is device - Dyson
+This is device - Window
+This is room - BedroomForParents, capacity - 6, square - 14.9, level - 2
+This is device - Samsung
+This is device - Boneco P700
+This is device - BabyMonitor
+This is device - MacBook
+This is device - Mitsubishi Electric
+This is device - Boneco U700
+This is device - Light
+This is device - Dyson
+This is device - Window
+This is room - BedroomForGrands, capacity - 6, square - 13.9, level - 2
+This is device - Samsung
+This is device - Boneco P700
+This is device - Mitsubishi Electric
+This is device - Boneco U700
+This is device - Light
+This is device - Dyson
+This is device - Window
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         1 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went to - BedroomForParents
+Father turned on Light
+Mother went to - Garage
+Mother is passenger of car
+Grandfather went to - Kitchen
+Grandfather turned on Fridge LG
+Grandmother went to - Garage
+Grandmother is driver of car
+Son went to - Hallway
+Son turned on Window
+Daughter went to - Garage
+Daughter is passenger of car
+Daughter is passenger of car, because he isn't 18 y.o.
+Guest1 went to - Kitchen
+Guest1 took all the food from Fridge LG
+Guest2 went to - Garage
+Guest2 is driver of ski
+Guest3 went to - Outdoor
+Guest3 turned on Light
+Guest4 went to - Garage
+Guest4 is driver of bike
+Guest5 went to - Kitchen
+Guest5 occupied deviceBeko
+Guest6 went to - Garage
+Guest6 is driver of ski
+Guest7 went to - LivingRoom
+Guest7 turned on Dell
+Guest8 went to - Garage
+Guest8 can't drive bike, because it's already busy
+Guest9 went to - BedroomForParents
+Guest9 turned on MacBook
+Guest10 went to - Garage
+Guest10 is driver of car
+Rex (pet - Dog) went to - Hallway
+Loki (pet - Cat) went to - Hallway
+Lola (pet - Parrot) went to - Garage
+Mother isn't passenger of Car
+Mother went to - Outdoor
+Grandmother isn't passenger of Car
+Grandmother went to - Outdoor
+Daughter isn't passenger of Car
+Daughter went to - Outdoor
+Guest2 isn't passenger of Ski
+Guest2 went from - Garage, to - Outdoor
+Guest4 isn't passenger of Bike
+Guest4 went from - Garage, to - Outdoor
+Beko is free, Guest5 doesn't use it
+Guest6 isn't passenger of Ski
+Guest6 went from - Garage, to - Outdoor
+Guest10 isn't passenger of Car
+Guest10 went to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 1 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 1.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 1.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 1.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 1.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 1.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 1.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 1.70 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 0.00 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 1.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 0.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 1.20 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 0.00 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 1.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 0.00 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 0.00 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 0.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 0.00 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 0.00 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 1.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 0.00 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 0.00 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 0.00 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         2 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - BedroomForParents, to - Garage
+Father is driver of car
+Mother went from - Outdoor, to - BedroomForParents
+Mother didn't turn off Dyson, because it's already off
+Grandfather went from - Kitchen, to - Garage
+Grandfather is driver of car
+Grandmother went from - Outdoor, to - BedroomForParents
+Grandmother turned on Samsung
+Son went from - Hallway, to - Garage
+Son is driver of ski
+Daughter went from - Outdoor, to - BedroomForParents
+Daughter turned on Mitsubishi Electric
+Guest1 went from - Kitchen, to - Garage
+Guest1 is driver of ski
+Guest2 went from - Outdoor, to - BedroomForParents
+Guest2 turned off Samsung
+Guest3 went from - Outdoor, to - Garage
+Guest3 is driver of bike
+Guest4 went from - Outdoor, to - LivingRoom
+Guest4 turned on Dell
+Guest5 went from - Kitchen, to - Garage
+Guest5 is driver of ski
+Guest6 went from - Outdoor, to - BedroomForParents
+Guest6 turned off Mitsubishi Electric
+Guest7 went from - LivingRoom, to - Garage
+Guest7 can't use ski, because it's already busy
+Guest8 went from - Garage, to - Outdoor
+Guest8 turned off Light
+Guest9 went from - BedroomForParents, to - Garage
+Guest9 can't use ski, because it's already busy
+Guest10 went from - Outdoor, to - Kitchen
+Guest10 turned on Light
+Rex (pet - Dog) went from - Hallway, to - ShowerRoom
+Loki (pet - Cat) went from - Hallway, to - Garage
+Lola (pet - Parrot) went from - Garage, to - Outdoor
+Father isn't passenger of Car
+Father went to - Outdoor
+Grandfather isn't passenger of Car
+Grandfather went to - Outdoor
+Son isn't passenger of Ski
+Son went from - Garage, to - Outdoor
+Guest1 isn't passenger of Ski
+Guest1 went from - Garage, to - Outdoor
+Guest3 isn't passenger of Bike
+Guest3 went from - Garage, to - Outdoor
+Guest5 isn't passenger of Ski
+Guest5 went from - Garage, to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 2 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 2.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 1.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 2.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 2.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 3.40 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 0.00 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 2.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 0.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 2.40 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 0.00 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 2.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 0.00 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 0.00 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 0.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 0.00 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 0.00 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 2.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 0.00 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 0.00 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 0.00 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         3 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Outdoor, to - BedroomForGrands
+Father turned on Mitsubishi Electric
+Mother went from - BedroomForParents, to - Garage
+Mother is driver of ski
+Grandfather went from - Outdoor, to - LivingRoom
+Grandfather turned on Light
+Grandmother went from - BedroomForParents, to - Garage
+Grandmother can't use ski, because it's already busy
+Son went from - Outdoor, to - Garage
+Son turned off Light
+Daughter went from - BedroomForParents, to - Garage
+Daughter is driver of bike
+Guest1 went from - Outdoor, to - LivingRoom
+Guest1 didn't turn off Samsung, because it's already off
+Guest2 went from - BedroomForParents, to - Garage
+Guest2 is driver of ski
+Guest3 went from - Outdoor, to - Kitchen
+Guest3 turned on Fridge LG
+Guest4 went from - LivingRoom, to - Garage
+Guest4 can't use ski, because it's already busy
+Guest5 went from - Outdoor, to - Kitchen
+Guest5 turned on Light
+Guest6 went from - BedroomForParents, to - Garage
+Guest6 can't use ski, because it's already busy
+Guest7 went from - Garage, to - Kitchen
+Guest7 turned off Fridge LG
+Guest8 went from - Outdoor, to - Garage
+Guest8 is driver of bike
+Guest9 went from - Garage, to - Kitchen
+Guest9 occupied deviceBeko
+Guest10 went from - Kitchen, to - Garage
+Guest10 can't drive bike, because it's already busy
+Rex (pet - Dog) went from - ShowerRoom, to - Hallway
+Loki (pet - Cat) went from - Garage, to - Kitchen
+Lola (pet - Parrot) went from - Outdoor, to - LivingRoom
+Mother isn't passenger of Ski
+Mother went from - Garage, to - Outdoor
+Daughter isn't passenger of Bike
+Daughter went from - Garage, to - Outdoor
+Guest2 isn't passenger of Ski
+Guest2 went from - Garage, to - Outdoor
+Guest8 isn't passenger of Bike
+Guest8 went from - Garage, to - Outdoor
+Beko is free, Guest9 doesn't use it
+
+---------------------------------------------------------------
+Consumption for 3 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 2.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 1.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 3.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 3.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 3.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 5.10 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 0.00 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 3.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 0.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 3.60 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 0.00 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 3.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 0.00 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 0.00 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 0.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 0.99 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 0.00 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 3.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 0.00 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 0.00 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 0.00 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         4 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - BedroomForGrands, to - Garage
+Father is passenger of car
+Mother went from - Outdoor, to - Kitchen
+Mother occupied deviceBeko
+Grandfather went from - LivingRoom, to - Garage
+Grandfather is driver of car
+Grandmother went from - Garage, to - ShowerRoom
+Grandmother occupied deviceSamsung Washing
+Son went from - Garage, to - Garage
+Son is driver of bike
+Daughter went from - Outdoor, to - LivingRoom
+Daughter didn't turn off Window, because it's already off
+Guest1 went from - LivingRoom, to - Garage
+Guest1 is driver of bike
+Guest2 went from - Outdoor, to - BedroomForGrands
+Guest2 turned off Light
+Guest3 went from - Kitchen, to - Garage
+Guest3 is driver of ski
+Guest4 went from - Garage, to - BedroomForParents
+Guest4 didn't turn off Window, because it's already off
+Guest5 went from - Kitchen, to - Garage
+Guest5 can't use ski, because it's already busy
+Guest6 went from - Garage, to - LivingRoom
+Guest6 turned on Mitsubishi Electric
+Guest7 went from - Kitchen, to - Garage
+Guest7 can't drive bike, because it's already busy
+Guest8 went from - Outdoor, to - Kitchen
+Guest8 gave 0 food to Fridge LG. 0
+Guest9 went from - Kitchen, to - Garage
+Guest9 is driver of ski
+Guest10 went from - Garage, to - Kitchen
+Guest10 turned on Window
+Rex (pet - Dog) went from - Hallway, to - BedroomForGrands
+Loki (pet - Cat) went from - Kitchen, to - BedroomForGrands
+Lola (pet - Parrot) went from - LivingRoom, to - LivingRoom
+Father isn't passenger of Car
+Father went to - Outdoor
+Beko is free, Mother doesn't use it
+Grandfather isn't passenger of Car
+Grandfather went to - Outdoor
+Samsung Washing is free, Grandmother doesn't use it
+Son isn't passenger of Bike
+Son went from - Garage, to - Outdoor
+Guest1 isn't passenger of Bike
+Guest1 went from - Garage, to - Outdoor
+Guest3 isn't passenger of Ski
+Guest3 went from - Garage, to - Outdoor
+Guest9 isn't passenger of Ski
+Guest9 went from - Garage, to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 4 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 2.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 1.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 4.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 4.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 4.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 6.80 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 1.09 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 4.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 0.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 4.80 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 0.00 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 4.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 0.00 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 0.00 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 0.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 1.98 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 0.00 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 3.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 0.00 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 0.00 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 0.00 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         5 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Outdoor, to - Outdoor
+Father turned on Light
+Mother went from - Kitchen, to - Garage
+Mother is driver of bike
+Grandfather went from - Outdoor, to - ShowerRoom
+Grandfather turned off Light
+Grandmother went from - ShowerRoom, to - Garage
+Grandmother can't drive bike, because it's already busy
+Son went from - Outdoor, to - Kitchen
+Son turned on Light
+Daughter went from - LivingRoom, to - Garage
+Daughter is passenger of car
+Guest1 went from - Outdoor, to - LivingRoom
+Guest1 turned on Window
+Guest2 went from - BedroomForGrands, to - Garage
+Guest2 is driver of ski
+Guest3 went from - Outdoor, to - Kitchen
+Guest3 turned on Light
+Guest4 went from - BedroomForParents, to - Garage
+Guest4 is passenger of car
+Guest5 went from - Garage, to - Kitchen
+Guest5 didn't turn off Fridge LG, because it's already off
+Guest6 went from - LivingRoom, to - Garage
+Guest6 is driver of ski
+Guest7 went from - Garage, to - BedroomForParents
+Guest7 didn't turn off Boneco P700, because it's already off
+Guest8 went from - Kitchen, to - Garage
+Guest8 is driver of bike
+Guest9 went from - Outdoor, to - ShowerRoom
+Guest9 occupied deviceSamsung Washing
+Guest10 went from - Kitchen, to - Garage
+Guest10 is driver of car
+Rex (pet - Dog) went from - BedroomForGrands, to - LivingRoom
+Loki (pet - Cat) went from - BedroomForGrands, to - ShowerRoom
+Lola (pet - Parrot) went from - LivingRoom, to - BedroomForParents
+Mother isn't passenger of Bike
+Mother went from - Garage, to - Outdoor
+Daughter isn't passenger of Car
+Daughter went to - Outdoor
+Guest2 isn't passenger of Ski
+Guest2 went from - Garage, to - Outdoor
+Guest4 isn't passenger of Car
+Guest4 went to - Outdoor
+Guest6 isn't passenger of Ski
+Guest6 went from - Garage, to - Outdoor
+Guest8 isn't passenger of Bike
+Guest8 went from - Garage, to - Outdoor
+Samsung Washing is free, Guest9 doesn't use it
+Guest10 isn't passenger of Car
+Guest10 went to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 5 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 2.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 2.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 5.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 4.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 5.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 8.50 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 2.18 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 5.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 0.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 6.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 0.00 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 5.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 0.00 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 0.00 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 0.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 2.97 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 0.00 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 3.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 0.00 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 0.00 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 0.00 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         6 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Outdoor, to - Garage
+Father is driver of bike
+Mother went from - Outdoor, to - Kitchen
+Mother turned on Beko
+Grandfather went from - ShowerRoom, to - Garage
+Grandfather is driver of ski
+Grandmother went from - Garage, to - LivingRoom
+Grandmother turned on Light
+Son went from - Kitchen, to - Garage
+Son is driver of bike
+Daughter went from - Outdoor, to - BedroomForGrands
+Daughter turned on Samsung
+Guest1 went from - LivingRoom, to - Garage
+Guest1 is passenger of car
+Guest2 went from - Outdoor, to - BedroomForParents
+Guest2 turned on Window
+Guest3 went from - Kitchen, to - Garage
+Guest3 can't use ski, because it's already busy
+Guest4 went from - Outdoor, to - BedroomForParents
+Guest4 turned on Samsung
+Guest5 went from - Kitchen, to - Garage
+Guest5 can't use ski, because it's already busy
+Guest6 went from - Outdoor, to - BedroomForGrands
+Guest6 didn't turn off Dyson, because it's already off
+Guest7 went from - BedroomForParents, to - Garage
+Guest7 can't drive bike, because it's already busy
+Guest8 went from - Outdoor, to - BedroomForParents
+Guest8 didn't turn off Boneco U700, because it's already off
+Guest9 went from - ShowerRoom, to - Garage
+Guest9 is driver of car
+Guest10 went from - Outdoor, to - BedroomForParents
+Guest10 didn't turn off Mitsubishi Electric, because it's already off
+Rex (pet - Dog) went from - LivingRoom, to - LivingRoom
+Loki (pet - Cat) went from - ShowerRoom, to - BedroomForParents
+Lola (pet - Parrot) went from - BedroomForParents, to - Hallway
+Father isn't passenger of Bike
+Father went from - Garage, to - Outdoor
+Grandfather isn't passenger of Ski
+Grandfather went from - Garage, to - Outdoor
+Son isn't passenger of Bike
+Son went from - Garage, to - Outdoor
+Guest1 isn't passenger of Car
+Guest1 went to - Outdoor
+Guest9 isn't passenger of Car
+Guest9 went to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 6 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 2.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 3.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 6.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 4.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 9.20 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 6.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 10.20 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 3.27 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 2.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 7.20 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 0.00 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 0.00 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 1.30 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 0.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 3.96 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 0.00 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 3.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 0.00 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 0.00 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 1.02 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         7 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Outdoor, to - Kitchen
+Father turned off Light
+Mother went from - Kitchen, to - Garage
+Mother is driver of bike
+Grandfather went from - Outdoor, to - BedroomForParents
+Grandfather turned on Light
+Grandmother went from - LivingRoom, to - Garage
+Grandmother is driver of car
+Son went from - Outdoor, to - ShowerRoom
+Son turned on Light
+Daughter went from - BedroomForGrands, to - Garage
+Daughter is driver of ski
+Guest1 went from - Outdoor, to - Kitchen
+Guest1 turned on Light
+Guest2 went from - BedroomForParents, to - Garage
+Guest2 is driver of ski
+Guest3 went from - Garage, to - BedroomForParents
+Guest3 turned off Light
+Guest4 went from - BedroomForParents, to - Garage
+Guest4 is passenger of car
+Guest5 went from - Garage, to - LivingRoom
+Guest5 turned on Light
+Guest6 went from - BedroomForGrands, to - Garage
+Guest6 is driver of bike
+Guest7 went from - Garage, to - Kitchen
+Guest7 occupied deviceTefal
+Guest8 went from - BedroomForParents, to - Garage
+Guest8 is driver of car
+Guest9 went from - Outdoor, to - LivingRoom
+Guest9 turned off Light
+Guest10 went from - BedroomForParents, to - Garage
+Guest10 can't use ski, because it's already busy
+Rex (pet - Dog) went from - LivingRoom, to - Hallway
+Loki (pet - Cat) went from - BedroomForParents, to - Outdoor
+Lola (pet - Parrot) went from - Hallway, to - Outdoor
+Mother isn't passenger of Bike
+Mother went from - Garage, to - Outdoor
+Grandmother isn't passenger of Car
+Grandmother went to - Outdoor
+Daughter isn't passenger of Ski
+Daughter went from - Garage, to - Outdoor
+Guest2 isn't passenger of Ski
+Guest2 went from - Garage, to - Outdoor
+Guest4 isn't passenger of Car
+Guest4 went to - Outdoor
+Guest6 isn't passenger of Bike
+Guest6 went from - Garage, to - Outdoor
+Tefal is free, Guest7 doesn't use it
+Guest8 isn't passenger of Car
+Guest8 went to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 7 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 2.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 4.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 7.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 5.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 18.40 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 7.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 11.90 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 4.36 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 8.40 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 0.00 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 0.00 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 2.60 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 0.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 4.95 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 0.00 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 3.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 0.00 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 0.00 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 2.04 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         8 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Kitchen, to - Garage
+Father is driver of bike
+Mother went from - Outdoor, to - Garage
+Mother didn't turn off Window, because it's already off
+Grandfather went from - BedroomForParents, to - Garage
+Grandfather is driver of ski
+Grandmother went from - Outdoor, to - LivingRoom
+Grandmother turned on Samsung
+Son went from - ShowerRoom, to - Garage
+Son is passenger of car
+Daughter went from - Outdoor, to - BedroomForGrands
+Daughter turned off Samsung
+Guest1 went from - Kitchen, to - Garage
+Guest1 can't drive bike, because it's already busy
+Guest2 went from - Outdoor, to - BedroomForParents
+Guest2 turned on Samsung
+Guest3 went from - BedroomForParents, to - Garage
+Guest3 is driver of ski
+Guest4 went from - Outdoor, to - Garage
+Guest4 turned on Light
+Guest5 went from - LivingRoom, to - Garage
+Guest5 is passenger of car
+Guest6 went from - Outdoor, to - ShowerRoom
+Guest6 didn't turn off Window, because it's already off
+Guest7 went from - Kitchen, to - Garage
+Guest7 is driver of bike
+Guest8 went from - Outdoor, to - BedroomForParents
+Guest8 turned off Samsung
+Guest9 went from - LivingRoom, to - Garage
+Guest9 is driver of ski
+Guest10 went from - Garage, to - Hallway
+Guest10 turned off Window
+Rex (pet - Dog) went from - Hallway, to - ShowerRoom
+Loki (pet - Cat) went from - Outdoor, to - Garage
+Lola (pet - Parrot) went from - Outdoor, to - Garage
+Father isn't passenger of Bike
+Father went from - Garage, to - Outdoor
+Grandfather isn't passenger of Ski
+Grandfather went from - Garage, to - Outdoor
+Son isn't passenger of Car
+Son went to - Outdoor
+Guest3 isn't passenger of Ski
+Guest3 went from - Garage, to - Outdoor
+Guest5 isn't passenger of Car
+Guest5 went to - Outdoor
+Guest7 isn't passenger of Bike
+Guest7 went from - Garage, to - Outdoor
+Guest9 isn't passenger of Ski
+Guest9 went from - Garage, to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 8 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 3.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 5.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 8.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 6.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 27.60 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 8.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 1.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 13.60 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 5.45 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 9.60 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 0.00 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 0.00 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 2.60 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 0.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 5.94 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 0.00 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 3.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 0.00 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 0.00 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 3.06 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         9 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Outdoor, to - ShowerRoom
+Father didn't turn off Samsung Washing, because it's already off
+Mother went from - Garage, to - Garage
+Mother is driver of ski
+Grandfather went from - Outdoor, to - ShowerRoom
+Grandfather occupied deviceSamsung Washing
+Grandmother went from - LivingRoom, to - Garage
+Grandmother is driver of ski
+Son went from - Outdoor, to - BedroomForGrands
+Son didn't turn off Samsung, because it's already off
+Daughter went from - BedroomForGrands, to - Garage
+Daughter can't use ski, because it's already busy
+Guest1 went from - Garage, to - LivingRoom
+Guest1 turned on Window
+Guest2 went from - BedroomForParents, to - Garage
+Guest2 is driver of ski
+Guest3 went from - Outdoor, to - LivingRoom
+Guest3 turned on Mitsubishi Electric
+Guest4 went from - Garage, to - Garage
+Guest4 is driver of bike
+Guest5 went from - Outdoor, to - BedroomForGrands
+Guest5 turned on Samsung
+Guest6 went from - ShowerRoom, to - Garage
+Guest6 can't use ski, because it's already busy
+Guest7 went from - Outdoor, to - BedroomForGrands
+Guest7 turned on Boneco U700
+Guest8 went from - BedroomForParents, to - Garage
+Guest8 can't drive bike, because it's already busy
+Guest9 went from - Outdoor, to - Kitchen
+Guest9 gave 6 food to Fridge LG. 6
+Guest10 went from - Hallway, to - Garage
+Guest10 can't use ski, because it's already busy
+Rex (pet - Dog) went from - ShowerRoom, to - Garage
+Loki (pet - Cat) went from - Garage, to - Outdoor
+Lola (pet - Parrot) went from - Garage, to - Kitchen
+Mother isn't passenger of Ski
+Mother went from - Garage, to - Outdoor
+Samsung Washing is free, Grandfather doesn't use it
+Grandmother isn't passenger of Ski
+Grandmother went from - Garage, to - Outdoor
+Guest2 isn't passenger of Ski
+Guest2 went from - Garage, to - Outdoor
+Guest4 isn't passenger of Bike
+Guest4 went from - Garage, to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 9 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 4.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 6.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 9.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 7.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 0.00 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 36.80 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 9.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 2.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 15.30 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 6.54 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 10.80 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 0.00 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 0.00 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 3.90 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 0.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 6.93 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 0.30 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 3.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 0.00 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 0.00 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 4.08 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         10 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - ShowerRoom, to - Garage
+Father is driver of bike
+Mother went from - Outdoor, to - Kitchen
+Mother turned on Beko
+Grandfather went from - ShowerRoom, to - Garage
+Grandfather is driver of ski
+Grandmother went from - Outdoor, to - BedroomForGrands
+Grandmother didn't turn off Boneco P700, because it's already off
+Son went from - BedroomForGrands, to - Garage
+Son is passenger of car
+Daughter went from - Garage, to - BedroomForParents
+Daughter turned on Boneco P700
+Guest1 went from - LivingRoom, to - Garage
+Guest1 is driver of ski
+Guest2 went from - Outdoor, to - Hallway
+Guest2 turned on Window
+Guest3 went from - LivingRoom, to - Garage
+Guest3 can't drive bike, because it's already busy
+Guest4 went from - Outdoor, to - BedroomForParents
+Guest4 turned off Window
+Guest5 went from - BedroomForGrands, to - Garage
+Guest5 is driver of ski
+Guest6 went from - Garage, to - BedroomForParents
+Guest6 turned on Dyson
+Guest7 went from - BedroomForGrands, to - Garage
+Guest7 can't use ski, because it's already busy
+Guest8 went from - Garage, to - BedroomForParents
+Guest8 turned on Mitsubishi Electric
+Guest9 went from - Kitchen, to - Garage
+Guest9 is driver of car
+Guest10 went from - Garage, to - BedroomForGrands
+Guest10 didn't turn off Dyson, because it's already off
+Rex (pet - Dog) went from - Garage, to - Kitchen
+Loki (pet - Cat) went from - Outdoor, to - BedroomForGrands
+Lola (pet - Parrot) went from - Kitchen, to - Hallway
+Father isn't passenger of Bike
+Father went from - Garage, to - Outdoor
+Grandfather isn't passenger of Ski
+Grandfather went from - Garage, to - Outdoor
+Son isn't passenger of Car
+Son went to - Outdoor
+Guest1 isn't passenger of Ski
+Guest1 went from - Garage, to - Outdoor
+Guest5 isn't passenger of Ski
+Guest5 went from - Garage, to - Outdoor
+Guest9 isn't passenger of Car
+Guest9 went to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 10 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 5.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 7.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 10.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 8.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 1.90 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 46.00 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 10.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 3.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 17.00 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 7.63 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 1.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 0.75 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 0.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 0.70 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 5.20 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 0.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 7.92 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 0.60 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 3.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 0.00 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 0.28 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 5.10 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         11 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Outdoor, to - BedroomForGrands
+Father turned on Dyson
+Mother went from - Kitchen, to - Garage
+Mother is driver of car
+Grandfather went from - Outdoor, to - ShowerRoom
+Grandfather turned off Light
+Grandmother went from - BedroomForGrands, to - Garage
+Grandmother is driver of ski
+Son went from - Outdoor, to - BedroomForParents
+Son didn't turn off Light, because it's already off
+Daughter went from - BedroomForParents, to - Garage
+Daughter is passenger of car
+Guest1 went from - Outdoor, to - Kitchen
+Guest1 occupied deviceTefal
+Guest2 went from - Hallway, to - Garage
+Guest2 is driver of ski
+Guest3 went from - Garage, to - BedroomForGrands
+Guest3 didn't turn off Boneco P700, because it's already off
+Guest4 went from - BedroomForParents, to - Garage
+Guest4 is passenger of car
+Guest4 can't driver car, because it has a driver
+Guest5 went from - Outdoor, to - Garage
+Guest5 turned on Window
+Guest6 went from - BedroomForParents, to - Garage
+Guest6 is driver of bike
+Guest7 went from - Garage, to - BedroomForParents
+Guest7 turned off MacBook
+Guest8 went from - BedroomForParents, to - Garage
+Guest8 isn't passenger of car, because it's busy (2 max)
+Guest9 went from - Outdoor, to - BedroomForParents
+Guest9 turned on Boneco U700
+Guest10 went from - BedroomForGrands, to - Garage
+Guest10 isn't passenger of car, because it's busy (2 max)
+Rex (pet - Dog) went from - Kitchen, to - ShowerRoom
+Loki (pet - Cat) went from - BedroomForGrands, to - BedroomForParents
+Lola (pet - Parrot) went from - Hallway, to - BedroomForGrands
+Mother isn't passenger of Car
+Mother went to - Outdoor
+Grandmother isn't passenger of Ski
+Grandmother went from - Garage, to - Outdoor
+Daughter isn't passenger of Car
+Daughter went to - Outdoor
+Tefal is free, Guest1 doesn't use it
+Guest2 isn't passenger of Ski
+Guest2 went from - Garage, to - Outdoor
+Guest4 isn't passenger of Car
+Guest4 went to - Outdoor
+Guest6 isn't passenger of Bike
+Guest6 went from - Garage, to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 11 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 6.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 8.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 11.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 8.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 3.80 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 55.20 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 11.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 4.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 18.70 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 8.72 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 2.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 1.50 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 1.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 1.40 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 6.50 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 0.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 8.91 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 0.90 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 3.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 1.20 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 0.56 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 6.12 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                     12 of  25 SERIOUS EVENT
+-------------------------------------------------------------------
+                 ---------------------------
+
+Problems with water! All water-devices are off!
+WaterDevice (Samsung Washing) is off
+WaterDevice (Samsung Washing) is off
+Mother went from - Outdoor, to - Garage
+Mother went from - Garage, to - Outdoor
+Mother went from - Outdoor, to - Hallway
+Mother went from - Hallway, to - ShowerRoom
+Mother went from - ShowerRoom, to - Kitchen
+Mother went from - Kitchen, to - LivingRoom
+Mother went from - LivingRoom, to - BedroomForParents
+Mother went from - BedroomForParents, to - BedroomForGrands
+Problems with water are solved! All water-devices are on!
+WaterDevice (Samsung Washing) is on
+WaterDevice (Samsung Washing) is on
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         13 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - BedroomForGrands, to - Kitchen
+Father didn't turn off Bork, because it's already off
+Mother went from - BedroomForGrands, to - Garage
+Mother is driver of car
+Grandfather went from - ShowerRoom, to - Kitchen
+Grandfather turned on Beko
+Grandmother went from - Outdoor, to - Garage
+Grandmother is driver of bike
+Son went from - BedroomForParents, to - BedroomForGrands
+Son turned on Boneco P700
+Daughter went from - Outdoor, to - Garage
+Daughter is driver of ski
+Guest1 went from - Kitchen, to - Hallway
+Guest1 turned on Window
+Guest2 went from - Outdoor, to - Garage
+Guest2 is driver of ski
+Guest3 went from - BedroomForGrands, to - BedroomForParents
+Guest3 turned on Dyson
+Guest4 went from - Outdoor, to - Garage
+Guest4 is driver of ski
+Guest5 went from - Garage, to - Kitchen
+Guest5 turned off Beko
+Guest6 went from - Outdoor, to - Garage
+Guest6 can't use ski, because it's already busy
+Guest7 went from - BedroomForParents, to - LivingRoom
+Guest7 didn't turn off Light, because it's already off
+Guest8 went from - Garage, to - Garage
+Guest8 is driver of car
+Guest9 went from - BedroomForParents, to - Kitchen
+Guest9 didn't turn off Beko, because it's already off
+Guest10 went from - Garage, to - Garage
+Guest10 can't drive bike, because it's already busy
+Rex (pet - Dog) went from - ShowerRoom, to - Kitchen
+Loki (pet - Cat) went from - BedroomForParents, to - BedroomForParents
+Lola (pet - Parrot) went from - BedroomForGrands, to - BedroomForParents
+Mother isn't passenger of Car
+Mother went to - Outdoor
+Grandmother isn't passenger of Bike
+Grandmother went from - Garage, to - Outdoor
+Daughter isn't passenger of Ski
+Daughter went from - Garage, to - Outdoor
+Guest2 isn't passenger of Ski
+Guest2 went from - Garage, to - Outdoor
+Guest4 isn't passenger of Ski
+Guest4 went from - Garage, to - Outdoor
+Guest8 isn't passenger of Car
+Guest8 went to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 13 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 7.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 9.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 12.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 8.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 5.70 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 55.20 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 12.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 5.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 20.40 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 9.81 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 3.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 2.25 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 2.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 2.10 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 7.80 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 1.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 9.90 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 1.20 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 3.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 2.40 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 0.84 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 6.12 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         14 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Kitchen, to - Garage
+Father is driver of bike
+Mother went from - Outdoor, to - BedroomForGrands
+Mother turned on Boneco P700
+Grandfather went from - Kitchen, to - Garage
+Grandfather can't drive bike, because it's already busy
+Grandmother went from - Outdoor, to - BedroomForParents
+Grandmother turned off Dyson
+Son went from - BedroomForGrands, to - Garage
+Son is passenger of car
+Daughter went from - Outdoor, to - LivingRoom
+Daughter turned off Window
+Guest1 went from - Hallway, to - Garage
+Guest1 is driver of ski
+Guest2 went from - Outdoor, to - Kitchen
+Guest2 occupied deviceBeko
+Guest3 went from - BedroomForParents, to - Garage
+Guest3 is driver of ski
+Guest4 went from - Outdoor, to - Garage
+Guest4 turned on Light
+Guest5 went from - Kitchen, to - Garage
+Guest5 is driver of bike
+Guest6 went from - Garage, to - BedroomForParents
+Guest6 turned on Window
+Guest7 went from - LivingRoom, to - Garage
+Guest7 can't drive bike, because it's already busy
+Guest8 went from - Outdoor, to - ShowerRoom
+Guest8 turned on Light
+Guest9 went from - Kitchen, to - Garage
+Guest9 can't use ski, because it's already busy
+Guest10 went from - Garage, to - BedroomForGrands
+Guest10 turned on Light
+Rex (pet - Dog) went from - Kitchen, to - Garage
+Loki (pet - Cat) went from - BedroomForParents, to - Garage
+Lola (pet - Parrot) went from - BedroomForParents, to - BedroomForParents
+Father isn't passenger of Bike
+Father went from - Garage, to - Outdoor
+Son isn't passenger of Car
+Son went to - Outdoor
+Guest1 isn't passenger of Ski
+Guest1 went from - Garage, to - Outdoor
+Beko is free, Guest2 doesn't use it
+Guest3 isn't passenger of Ski
+Guest3 went from - Garage, to - Outdoor
+Guest5 isn't passenger of Bike
+Guest5 went from - Garage, to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 14 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 8.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 10.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 13.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 9.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 7.60 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 55.20 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 13.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 22.10 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 10.90 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 4.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 3.00 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 3.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 2.10 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 9.10 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 2.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 10.89 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 1.50 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 4.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 3.60 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 1.12 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 6.12 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         15 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Outdoor, to - LivingRoom
+Father didn't turn off Dyson, because it's already off
+Mother went from - BedroomForGrands, to - Garage
+Mother is driver of ski
+Grandfather went from - Garage, to - Kitchen
+Grandfather turned off Beko
+Grandmother went from - BedroomForParents, to - Garage
+Grandmother is driver of bike
+Son went from - Outdoor, to - LivingRoom
+Son didn't turn off Dyson, because it's already off
+Daughter went from - LivingRoom, to - Garage
+Daughter is driver of ski
+Guest1 went from - Outdoor, to - BedroomForParents
+Guest1 didn't turn off BabyMonitor, because it's already off
+Guest2 went from - Kitchen, to - Garage
+Guest2 is driver of ski
+Guest3 went from - Outdoor, to - ShowerRoom
+Guest3 turned off Light
+Guest4 went from - Garage, to - Garage
+Guest4 is driver of bike
+Guest5 went from - Outdoor, to - BedroomForParents
+Guest5 turned on Dyson
+Guest6 went from - BedroomForParents, to - Garage
+Guest6 can't use ski, because it's already busy
+Guest7 went from - Garage, to - ShowerRoom
+Guest7 turned on Light
+Guest8 went from - ShowerRoom, to - Garage
+Guest8 can't drive bike, because it's already busy
+Guest9 went from - Garage, to - ShowerRoom
+Guest9 didn't turn off Window, because it's already off
+Guest10 went from - BedroomForGrands, to - Garage
+Guest10 is passenger of car
+Rex (pet - Dog) went from - Garage, to - ShowerRoom
+Loki (pet - Cat) went from - Garage, to - BedroomForGrands
+Lola (pet - Parrot) went from - BedroomForParents, to - BedroomForGrands
+Mother isn't passenger of Ski
+Mother went from - Garage, to - Outdoor
+Grandmother isn't passenger of Bike
+Grandmother went from - Garage, to - Outdoor
+Daughter isn't passenger of Ski
+Daughter went from - Garage, to - Outdoor
+Guest2 isn't passenger of Ski
+Guest2 went from - Garage, to - Outdoor
+Guest4 isn't passenger of Bike
+Guest4 went from - Garage, to - Outdoor
+Guest10 isn't passenger of Car
+Guest10 went to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 15 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 9.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 11.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 14.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 10.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 7.60 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 55.20 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 14.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 7.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 23.80 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 11.99 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.00 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 5.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 3.75 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 4.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 2.80 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 10.40 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 3.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 11.88 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 1.80 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 5.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 4.80 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 1.12 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 6.12 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         16 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - LivingRoom, to - Garage
+Father is driver of ski
+Mother went from - Outdoor, to - LivingRoom
+Mother turned on Dyson
+Grandfather went from - Kitchen, to - Garage
+Grandfather is passenger of car
+Grandmother went from - Outdoor, to - BedroomForParents
+Grandmother turned off Boneco U700
+Son went from - LivingRoom, to - Garage
+Son can't use ski, because it's already busy
+Daughter went from - Outdoor, to - Kitchen
+Daughter turned on Light
+Guest1 went from - BedroomForParents, to - Garage
+Guest1 is driver of ski
+Guest2 went from - Outdoor, to - BedroomForParents
+Guest2 didn't turn off BabyMonitor, because it's already off
+Guest3 went from - ShowerRoom, to - Garage
+Guest3 is driver of car
+Guest4 went from - Outdoor, to - ShowerRoom
+Guest4 turned on Samsung Washing
+Guest5 went from - BedroomForParents, to - Garage
+Guest5 is passenger of car
+Guest5 can't driver car, because it has a driver
+Guest6 went from - Garage, to - BedroomForGrands
+Guest6 turned off Dyson
+Guest7 went from - ShowerRoom, to - Garage
+Guest7 is driver of bike
+Guest8 went from - Garage, to - Garage
+Guest8 turned off Window
+Guest9 went from - ShowerRoom, to - Garage
+Guest9 can't drive bike, because it's already busy
+Guest10 went from - Outdoor, to - BedroomForGrands
+Guest10 turned on Mitsubishi Electric
+Rex (pet - Dog) went from - ShowerRoom, to - BedroomForGrands
+Loki (pet - Cat) went from - BedroomForGrands, to - LivingRoom
+Lola (pet - Parrot) went from - BedroomForGrands, to - ShowerRoom
+Father isn't passenger of Ski
+Father went from - Garage, to - Outdoor
+Grandfather isn't passenger of Car
+Grandfather went to - Outdoor
+Guest1 isn't passenger of Ski
+Guest1 went from - Garage, to - Outdoor
+Guest3 isn't passenger of Car
+Guest3 went to - Outdoor
+Guest5 isn't passenger of Car
+Guest5 went to - Outdoor
+Guest7 isn't passenger of Bike
+Guest7 went from - Garage, to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 16 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 10.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 12.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 15.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 11.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 4.10 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 7.60 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 55.20 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 15.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 8.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 25.50 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 13.08 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 0.90 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 4.50 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 4.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 3.50 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 11.70 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 4.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 12.87 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 2.10 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 4.80 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 1.12 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 6.12 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 1.40 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         17 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Outdoor, to - LivingRoom
+Father turned on Dyson
+Mother went from - LivingRoom, to - Garage
+Mother is driver of bike
+Grandfather went from - Outdoor, to - BedroomForParents
+Grandfather didn't turn off BabyMonitor, because it's already off
+Grandmother went from - BedroomForParents, to - Garage
+Grandmother is driver of ski
+Son went from - Garage, to - BedroomForParents
+Son didn't turn off Boneco U700, because it's already off
+Daughter went from - Kitchen, to - Garage
+Daughter is passenger of car
+Guest1 went from - Outdoor, to - LivingRoom
+Guest1 occupied deviceDell
+Guest2 went from - BedroomForParents, to - Garage
+Guest2 can't drive bike, because it's already busy
+Guest3 went from - Outdoor, to - ShowerRoom
+Guest3 didn't turn off Window, because it's already off
+Guest4 went from - ShowerRoom, to - Garage
+Guest4 can't drive bike, because it's already busy
+Guest5 went from - Outdoor, to - BedroomForParents
+Guest5 turned on Dyson
+Guest6 went from - BedroomForGrands, to - Garage
+Guest6 is driver of ski
+Guest7 went from - Outdoor, to - ShowerRoom
+Guest7 turned on Window
+Guest8 went from - Garage, to - Garage
+Guest8 is driver of car
+Guest9 went from - Garage, to - LivingRoom
+Guest9 turned off Samsung
+Guest10 went from - BedroomForGrands, to - Garage
+Guest10 can't use ski, because it's already busy
+Rex (pet - Dog) went from - BedroomForGrands, to - Garage
+Loki (pet - Cat) went from - LivingRoom, to - BedroomForParents
+Lola (pet - Parrot) went from - ShowerRoom, to - LivingRoom
+Mother isn't passenger of Bike
+Mother went from - Garage, to - Outdoor
+Grandmother isn't passenger of Ski
+Grandmother went from - Garage, to - Outdoor
+Daughter isn't passenger of Car
+Daughter went to - Outdoor
+Dell is free, Guest1 doesn't use it
+Guest6 isn't passenger of Ski
+Guest6 went from - Garage, to - Outdoor
+Guest8 isn't passenger of Car
+Guest8 went to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 17 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 11.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 13.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 16.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 12.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 8.20 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 7.60 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 55.20 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 16.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 8.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 27.20 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 14.17 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 1.80 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 7.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 5.25 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 4.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 4.20 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 13.00 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 5.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 13.86 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 2.40 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 7.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 4.80 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 1.12 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 6.12 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 2.80 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         18 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - LivingRoom, to - Garage
+Father is driver of ski
+Mother went from - Outdoor, to - Kitchen
+Mother turned off Window
+Grandfather went from - BedroomForParents, to - Garage
+Grandfather is driver of bike
+Grandmother went from - Outdoor, to - BedroomForGrands
+Grandmother turned off Samsung
+Son went from - BedroomForParents, to - Garage
+Son is passenger of car
+Daughter went from - Outdoor, to - LivingRoom
+Daughter turned on Dyson
+Guest1 went from - LivingRoom, to - Garage
+Guest1 is driver of bike
+Guest2 went from - Garage, to - Kitchen
+Guest2 occupied deviceBeko
+Guest3 went from - ShowerRoom, to - Garage
+Guest3 is driver of ski
+Guest4 went from - Garage, to - ShowerRoom
+Guest4 occupied deviceSamsung Washing
+Guest5 went from - BedroomForParents, to - Garage
+Guest5 can't use ski, because it's already busy
+Guest6 went from - Outdoor, to - Garage
+Guest6 turned on Light
+Guest7 went from - ShowerRoom, to - Garage
+Guest7 can't drive bike, because it's already busy
+Guest8 went from - Outdoor, to - LivingRoom
+Guest8 turned off Dyson
+Guest9 went from - LivingRoom, to - Garage
+Guest9 can't drive bike, because it's already busy
+Guest10 went from - Garage, to - Kitchen
+Guest10 occupied deviceTefal
+Rex (pet - Dog) went from - Garage, to - BedroomForGrands
+Loki (pet - Cat) went from - BedroomForParents, to - ShowerRoom
+Lola (pet - Parrot) went from - LivingRoom, to - ShowerRoom
+Father isn't passenger of Ski
+Father went from - Garage, to - Outdoor
+Grandfather isn't passenger of Bike
+Grandfather went from - Garage, to - Outdoor
+Son isn't passenger of Car
+Son went to - Outdoor
+Guest1 isn't passenger of Bike
+Guest1 went from - Garage, to - Outdoor
+Beko is free, Guest2 doesn't use it
+Guest3 isn't passenger of Ski
+Guest3 went from - Garage, to - Outdoor
+Samsung Washing is free, Guest4 doesn't use it
+Tefal is free, Guest10 doesn't use it
+
+---------------------------------------------------------------
+Consumption for 18 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 12.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 14.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 17.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 13.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 12.30 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 7.60 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 55.20 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 17.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 8.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 28.90 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 15.26 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 0.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 1.80 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 8.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 6.00 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 4.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 4.90 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 13.00 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 6.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 14.85 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 2.70 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 8.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 4.80 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 1.12 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 6.12 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 4.20 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         19 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Outdoor, to - BedroomForParents
+Father turned on Boneco U700
+Mother went from - Kitchen, to - Garage
+Mother is driver of bike
+Grandfather went from - Outdoor, to - Outdoor
+Grandfather turned on Light
+Grandmother went from - BedroomForGrands, to - Garage
+Grandmother can't drive bike, because it's already busy
+Son went from - Outdoor, to - BedroomForParents
+Son turned off Window
+Daughter went from - LivingRoom, to - Garage
+Daughter is driver of ski
+Guest1 went from - Outdoor, to - LivingRoom
+Guest1 turned on Boneco U700
+Guest2 went from - Kitchen, to - Garage
+Guest2 is driver of bike
+Guest3 went from - Outdoor, to - LivingRoom
+Guest3 turned on Samsung
+Guest4 went from - ShowerRoom, to - Garage
+Guest4 can't drive bike, because it's already busy
+Guest5 went from - Garage, to - Kitchen
+Guest5 occupied deviceBeko
+Guest6 went from - Garage, to - Garage
+Guest6 can't drive bike, because it's already busy
+Guest7 went from - Garage, to - ShowerRoom
+Guest7 turned off Window
+Guest8 went from - LivingRoom, to - Garage
+Guest8 is driver of car
+Guest9 went from - Garage, to - ShowerRoom
+Guest9 occupied deviceSamsung Washing
+Guest10 went from - Kitchen, to - Garage
+Guest10 can't drive bike, because it's already busy
+Rex (pet - Dog) went from - BedroomForGrands, to - BedroomForGrands
+Loki (pet - Cat) went from - ShowerRoom, to - Garage
+Lola (pet - Parrot) went from - ShowerRoom, to - BedroomForParents
+Mother isn't passenger of Bike
+Mother went from - Garage, to - Outdoor
+Daughter isn't passenger of Ski
+Daughter went from - Garage, to - Outdoor
+Guest2 isn't passenger of Bike
+Guest2 went from - Garage, to - Outdoor
+Beko is free, Guest5 doesn't use it
+Guest8 isn't passenger of Car
+Guest8 went to - Outdoor
+Samsung Washing is free, Guest9 doesn't use it
+
+---------------------------------------------------------------
+Consumption for 19 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 13.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 15.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 18.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 14.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 0.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 16.40 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 7.60 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 55.20 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 18.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 0.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 9.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 30.60 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 16.35 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 2.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 1.80 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 9.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 6.75 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 5.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 5.60 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 13.00 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 7.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 15.84 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 3.00 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 9.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 4.80 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 1.12 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 6.12 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 0.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 5.60 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         20 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - BedroomForParents, to - Garage
+Father is driver of ski
+Mother went from - Outdoor, to - BedroomForParents
+Mother turned on Boneco P700
+Grandfather went from - Outdoor, to - Garage
+Grandfather is passenger of car
+Grandmother went from - Garage, to - Outdoor
+Grandmother turned on Light
+Son went from - BedroomForParents, to - Garage
+Son is driver of ski
+Daughter went from - Outdoor, to - Kitchen
+Daughter didn't turn off Bork, because it's already off
+Guest1 went from - LivingRoom, to - Garage
+Guest1 is driver of bike
+Guest2 went from - Outdoor, to - LivingRoom
+Guest2 turned on Mitsubishi Electric
+Guest3 went from - LivingRoom, to - Garage
+Guest3 is driver of ski
+Guest4 went from - Garage, to - Kitchen
+Guest4 turned on Bork
+Guest5 went from - Kitchen, to - Garage
+Guest5 can't drive bike, because it's already busy
+Guest6 went from - Garage, to - Kitchen
+Guest6 didn't turn off Window, because it's already off
+Guest7 went from - ShowerRoom, to - Garage
+Guest7 can't use ski, because it's already busy
+Guest8 went from - Outdoor, to - ShowerRoom
+Guest8 turned on Samsung Washing
+Guest9 went from - ShowerRoom, to - Garage
+Guest9 can't drive bike, because it's already busy
+Guest10 went from - Garage, to - LivingRoom
+Guest10 turned on Mitsubishi Electric
+Rex (pet - Dog) went from - BedroomForGrands, to - BedroomForGrands
+Loki (pet - Cat) went from - Garage, to - BedroomForParents
+Lola (pet - Parrot) went from - BedroomForParents, to - Kitchen
+Father isn't passenger of Ski
+Father went from - Garage, to - Outdoor
+Grandfather isn't passenger of Car
+Grandfather went to - Outdoor
+Son isn't passenger of Ski
+Son went from - Garage, to - Outdoor
+Guest1 isn't passenger of Bike
+Guest1 went from - Garage, to - Outdoor
+Guest3 isn't passenger of Ski
+Guest3 went from - Garage, to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 20 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 14.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 16.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 19.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 15.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 3.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 20.50 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 7.60 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 55.20 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 19.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 1.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 10.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 0.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 32.30 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 17.44 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 4.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 1.80 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 10.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 7.50 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 6.30 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 13.00 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 8.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 16.83 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 3.30 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 10.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 4.80 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 1.12 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 6.12 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 1.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 7.00 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         21 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Outdoor, to - Kitchen
+Father turned on Beko
+Mother went from - BedroomForParents, to - Garage
+Mother is driver of bike
+Grandfather went from - Outdoor, to - BedroomForGrands
+Grandfather turned on Light
+Grandmother went from - Outdoor, to - Garage
+Grandmother is driver of car
+Son went from - Outdoor, to - BedroomForGrands
+Son turned on Dyson
+Daughter went from - Kitchen, to - Garage
+Daughter is driver of bike
+Guest1 went from - Outdoor, to - LivingRoom
+Guest1 turned on Boneco P700
+Guest2 went from - LivingRoom, to - Garage
+Guest2 can't drive bike, because it's already busy
+Guest3 went from - Outdoor, to - LivingRoom
+Guest3 turned off Boneco U700
+Guest4 went from - Kitchen, to - Garage
+Guest4 is passenger of car
+Guest5 went from - Garage, to - Kitchen
+Guest5 didn't turn off Window, because it's already off
+Guest6 went from - Kitchen, to - Garage
+Guest6 isn't passenger of car, because it's busy (2 max)
+Guest7 went from - Garage, to - BedroomForParents
+Guest7 turned on Boneco U700
+Guest8 went from - ShowerRoom, to - Garage
+Guest8 isn't passenger of car, because it's busy (2 max)
+Guest8 can't driver car, because it has a driver
+Guest9 went from - Garage, to - Garage
+Guest9 didn't turn off Window, because it's already off
+Guest10 went from - LivingRoom, to - Garage
+Guest10 is driver of ski
+Rex (pet - Dog) went from - BedroomForGrands, to - Outdoor
+Loki (pet - Cat) went from - BedroomForParents, to - Kitchen
+Lola (pet - Parrot) went from - Kitchen, to - BedroomForParents
+Mother isn't passenger of Bike
+Mother went from - Garage, to - Outdoor
+Grandmother isn't passenger of Car
+Grandmother went to - Outdoor
+Daughter isn't passenger of Bike
+Daughter went from - Garage, to - Outdoor
+Guest4 isn't passenger of Car
+Guest4 went to - Outdoor
+Guest10 isn't passenger of Ski
+Guest10 went from - Garage, to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 21 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 15.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 17.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 20.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 16.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 6.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 24.60 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 7.60 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 64.40 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 20.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 11.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 1.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 34.00 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 18.53 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 4.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 1.80 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 11.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 8.25 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 7.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 7.00 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 13.00 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 9.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 17.82 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 3.60 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 11.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 6.00 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 1.12 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 7.14 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 2.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 8.40 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         22 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Kitchen, to - Garage
+Father is driver of ski
+Mother went from - Outdoor, to - LivingRoom
+Mother didn't turn off Window, because it's already off
+Grandfather went from - BedroomForGrands, to - Garage
+Grandfather is driver of ski
+Grandmother went from - Outdoor, to - BedroomForGrands
+Grandmother turned on Window
+Son went from - BedroomForGrands, to - Garage
+Son is driver of bike
+Daughter went from - Outdoor, to - LivingRoom
+Daughter turned off Boneco P700
+Guest1 went from - LivingRoom, to - Garage
+Guest1 is driver of ski
+Guest2 went from - Garage, to - ShowerRoom
+Guest2 turned on Samsung Washing
+Guest3 went from - LivingRoom, to - Garage
+Guest3 can't use ski, because it's already busy
+Guest4 went from - Outdoor, to - BedroomForParents
+Guest4 turned on Boneco U700
+Guest5 went from - Kitchen, to - Garage
+Guest5 is driver of bike
+Guest6 went from - Garage, to - BedroomForParents
+Guest6 turned off Dyson
+Guest7 went from - BedroomForParents, to - Garage
+Guest7 can't use ski, because it's already busy
+Guest8 went from - Garage, to - Kitchen
+Guest8 didn't turn off Fridge LG, because it's already off
+Guest9 went from - Garage, to - Garage
+Guest9 is passenger of car
+Guest10 went from - Outdoor, to - Garage
+Guest10 turned on Light
+Rex (pet - Dog) went from - Outdoor, to - Outdoor
+Loki (pet - Cat) went from - Kitchen, to - BedroomForParents
+Lola (pet - Parrot) went from - BedroomForParents, to - BedroomForParents
+Father isn't passenger of Ski
+Father went from - Garage, to - Outdoor
+Grandfather isn't passenger of Ski
+Grandfather went from - Garage, to - Outdoor
+Son isn't passenger of Bike
+Son went from - Garage, to - Outdoor
+Guest1 isn't passenger of Ski
+Guest1 went from - Garage, to - Outdoor
+Guest5 isn't passenger of Bike
+Guest5 went from - Garage, to - Outdoor
+Guest9 isn't passenger of Car
+Guest9 went to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 22 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 16.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 18.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 21.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 17.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 9.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 28.70 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 7.60 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 73.60 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 21.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 3.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 12.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 1.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 35.70 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 19.62 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 4.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 1.80 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 12.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 9.00 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 8.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 7.00 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 13.00 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 10.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 18.81 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 3.90 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 12.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 7.20 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 1.12 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 8.16 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 3.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 9.80 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         23 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - Outdoor, to - BedroomForParents
+Father didn't turn off MacBook, because it's already off
+Mother went from - LivingRoom, to - Garage
+Mother is driver of bike
+Grandfather went from - Outdoor, to - BedroomForParents
+Grandfather turned on Light
+Grandmother went from - BedroomForGrands, to - Garage
+Grandmother is driver of ski
+Son went from - Outdoor, to - BedroomForParents
+Son didn't turn off BabyMonitor, because it's already off
+Daughter went from - LivingRoom, to - Garage
+Daughter can't drive bike, because it's already busy
+Guest1 went from - Outdoor, to - BedroomForGrands
+Guest1 turned on Dyson
+Guest2 went from - ShowerRoom, to - Garage
+Guest2 is driver of ski
+Guest3 went from - Garage, to - Kitchen
+Guest3 turned on Light
+Guest4 went from - BedroomForParents, to - Garage
+Guest4 can't drive bike, because it's already busy
+Guest5 went from - Outdoor, to - BedroomForGrands
+Guest5 turned on Dyson
+Guest6 went from - BedroomForParents, to - Garage
+Guest6 can't use ski, because it's already busy
+Guest7 went from - Garage, to - BedroomForGrands
+Guest7 turned off Dyson
+Guest8 went from - Kitchen, to - Garage
+Guest8 is passenger of car
+Guest9 went from - Outdoor, to - LivingRoom
+Guest9 turned off Samsung
+Guest10 went from - Garage, to - Garage
+Guest10 is driver of car
+Rex (pet - Dog) went from - Outdoor, to - Outdoor
+Loki (pet - Cat) went from - BedroomForParents, to - ShowerRoom
+Lola (pet - Parrot) went from - BedroomForParents, to - Hallway
+Mother isn't passenger of Bike
+Mother went from - Garage, to - Outdoor
+Grandmother isn't passenger of Ski
+Grandmother went from - Garage, to - Outdoor
+Guest2 isn't passenger of Ski
+Guest2 went from - Garage, to - Outdoor
+Guest8 isn't passenger of Car
+Guest8 went to - Outdoor
+Guest10 isn't passenger of Car
+Guest10 went to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 23 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 17.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 19.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 22.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 18.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 12.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 32.80 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 7.60 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 82.80 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 22.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 4.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 12.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 1.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 37.40 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 20.71 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 4.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 1.80 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 13.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 9.75 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 9.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 7.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 7.00 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 13.00 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 11.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 19.80 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 4.20 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 13.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 7.20 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 1.12 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 9.18 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 4.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 11.20 (1.40 per turn)
+
+                 ---------------------------
+-------------------------------------------------------------------
+                     24 of  25 SERIOUS EVENT
+-------------------------------------------------------------------
+                 ---------------------------
+
+Call to fire service!
+Problems with gas! All gas-devices are off!
+GasDevice (Beko) is off
+GasDevice (Beko) is off
+Problems with electricity! All devices are off.
+Power for LivingRoom was off
+Power for Garage was off
+Power for Outdoor was off
+Power for Hallway was off
+Power for ShowerRoom was off
+Power for Kitchen was off
+Power for LivingRoom was off
+Power for BedroomForParents was off
+Power for BedroomForGrands was off
+On all services
+Problems with electricity were solved! Ok, all devices are on.
+Power for LivingRoom was on
+Power for Garage was on
+Power for Outdoor was on
+Power for Hallway was on
+Power for ShowerRoom was on
+Power for Kitchen was on
+Power for LivingRoom was on
+Power for BedroomForParents was on
+Power for BedroomForGrands was on
+Problems with gas are solved! All gas-devices are on!
+GasDevice (Beko) is on
+GasDevice (Beko) is on
+
+                 ---------------------------
+-------------------------------------------------------------------
+                         25 of 25
+-------------------------------------------------------------------
+                 ---------------------------
+
+Father went from - BedroomForParents, to - ShowerRoom
+Father occupied deviceSamsung Washing
+Mother went from - Outdoor, to - Garage
+Mother is driver of bike
+Grandfather went from - BedroomForParents, to - BedroomForGrands
+Grandfather didn't turn off Samsung, because it's already off
+Grandmother went from - Outdoor, to - Garage
+Grandmother is driver of car
+Son went from - BedroomForParents, to - Hallway
+Son turned off Window
+Daughter went from - Garage, to - Garage
+Daughter is driver of bike
+Guest1 went from - BedroomForGrands, to - BedroomForGrands
+Guest1 turned on Dyson
+Guest2 went from - Outdoor, to - Garage
+Guest2 is driver of car
+Guest3 went from - Kitchen, to - Outdoor
+Guest3 turned off Light
+Guest4 went from - Garage, to - Garage
+Guest4 is passenger of car
+Guest4 can't driver car, because it has a driver
+Guest5 went from - BedroomForGrands, to - LivingRoom
+Guest5 turned on Window
+Guest6 went from - Garage, to - Garage
+Guest6 is passenger of car
+Guest6 is passenger of car, because he isn't 18 y.o.
+Guest7 went from - BedroomForGrands, to - Garage
+Guest7 turned on Light
+Guest8 went from - Outdoor, to - Garage
+Guest8 is passenger of car
+Guest8 can't driver car, because it has a driver
+Guest9 went from - LivingRoom, to - ShowerRoom
+Guest9 occupied deviceSamsung Washing
+Guest10 went from - Outdoor, to - Garage
+Guest10 is driver of ski
+Rex (pet - Dog) went from - Outdoor, to - BedroomForParents
+Loki (pet - Cat) went from - ShowerRoom, to - Garage
+Lola (pet - Parrot) went from - Hallway, to - Garage
+Samsung Washing is free, Father doesn't use it
+Mother isn't passenger of Bike
+Mother went from - Garage, to - Outdoor
+Grandmother isn't passenger of Car
+Grandmother went to - Outdoor
+Daughter isn't passenger of Bike
+Daughter went from - Garage, to - Outdoor
+Guest2 isn't passenger of Car
+Guest2 went to - Outdoor
+Guest4 isn't passenger of Car
+Guest4 went to - Outdoor
+Guest6 isn't passenger of Car
+Guest6 went to - Outdoor
+Guest8 isn't passenger of Car
+Guest8 went to - Outdoor
+Samsung Washing is free, Guest9 doesn't use it
+Guest10 isn't passenger of Ski
+Guest10 went from - Garage, to - Outdoor
+
+---------------------------------------------------------------
+Consumption for 25 of 25
+---------------------------------------------------------------
+
+Electricity consumption:
+Electricity consumption for Light in Garage - 18.00 (1.00 per turn)
+Electricity consumption for Window in Garage - 0.00 (0.00 per turn)
+Electricity consumption for Light in Outdoor - 19.00 (1.00 per turn)
+Electricity consumption for Light in Hallway - 23.00 (1.00 per turn)
+Electricity consumption for Window in Hallway - 0.00 (0.00 per turn)
+Electricity consumption for Light in ShowerRoom - 19.00 (1.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 15.00 (3.00 per turn)
+Electricity consumption for Samsung Washing in ShowerRoom - 36.90 (4.10 per turn)
+Electricity consumption for Window in ShowerRoom - 0.00 (0.00 per turn)
+Electricity consumption for Fridge LG in Kitchen - 2.00 (1.00 per turn)
+Electricity consumption for Beko in Kitchen - 7.60 (1.90 per turn)
+Electricity consumption for Beko in Kitchen - 92.00 (9.20 per turn)
+Electricity consumption for Light in Kitchen - 23.00 (1.00 per turn)
+Electricity consumption for Tefal in Kitchen - 0.00 (0.80 per turn)
+Electricity consumption for Bork in Kitchen - 5.00 (1.00 per turn)
+Electricity consumption for Window in Kitchen - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in LivingRoom - 12.00 (1.00 per turn)
+Electricity consumption for Boneco P700 in LivingRoom - 1.00 (1.00 per turn)
+Electricity consumption for Dell in LivingRoom - 39.10 (1.70 per turn)
+Electricity consumption for Mitsubishi Electric in LivingRoom - 21.80 (1.09 per turn)
+Electricity consumption for Boneco U700 in LivingRoom - 4.00 (2.00 per turn)
+Electricity consumption for Light in LivingRoom - 6.00 (1.00 per turn)
+Electricity consumption for Dyson in LivingRoom - 1.80 (0.90 per turn)
+Electricity consumption for Window in LivingRoom - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForParents - 4.00 (2.00 per turn)
+Electricity consumption for Boneco P700 in BedroomForParents - 14.00 (1.00 per turn)
+Electricity consumption for BabyMonitor in BedroomForParents - 0.00 (0.90 per turn)
+Electricity consumption for MacBook in BedroomForParents - 12.00 (1.20 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForParents - 10.50 (0.75 per turn)
+Electricity consumption for Boneco U700 in BedroomForParents - 10.00 (1.00 per turn)
+Electricity consumption for Light in BedroomForParents - 8.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForParents - 7.00 (0.70 per turn)
+Electricity consumption for Window in BedroomForParents - 0.00 (0.00 per turn)
+Electricity consumption for Samsung in BedroomForGrands - 13.00 (1.30 per turn)
+Electricity consumption for Boneco P700 in BedroomForGrands - 12.00 (1.00 per turn)
+Electricity consumption for Mitsubishi Electric in BedroomForGrands - 20.79 (0.99 per turn)
+Electricity consumption for Boneco U700 in BedroomForGrands - 4.50 (0.30 per turn)
+Electricity consumption for Light in BedroomForGrands - 14.00 (1.00 per turn)
+Electricity consumption for Dyson in BedroomForGrands - 8.40 (1.20 per turn)
+Electricity consumption for Window in BedroomForGrands - 0.00 (0.00 per turn)
+
+Gas consumption:
+Gas consumption for Beko in Kitchen - 1.12 (0.28 per turn)
+Gas consumption for Beko in Kitchen - 10.20 (1.02 per turn)
+
+Water consumption:
+Water consumption for Samsung Washing in ShowerRoom - 5.00 (1.00 per turn)
+Water consumption for Samsung Washing in ShowerRoom - 12.60 (1.40 per turn)
+
+Process finished with exit code 0
